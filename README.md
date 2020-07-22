@@ -1,4 +1,6 @@
-# Books-bootstrap-website
+# Responsive Web Design
 
-Top Open this website just go to src and open Index.html file.
+In this project, a fully responsive website created with HTML5, Bootstrap and jQuery.
+
+> [Live Site](https://responsive-books.netlify.app/ "Go to the Responsive Web Design")
 
